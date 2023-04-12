@@ -2,7 +2,7 @@ language = "nix"
 run = ["npm", "start"]
 
 [packager]
-language = "nodejs-npm"
+language = "nodejs-nptsetm"
 
 [nix]
 channel = "stable-22_05"
